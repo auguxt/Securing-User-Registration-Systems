@@ -15,6 +15,7 @@ Securing-User-Registration-Systems/
 ├── insecure_registration.py
 ├── secure_registration.py
 ├── README.md
+├── requirements.txt
 ├── LICENSE
 └── .gitignore
 ```
